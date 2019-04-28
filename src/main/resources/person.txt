@@ -1,0 +1,8 @@
+name;age
+Jan;30
+Tomasz;45
+Anna;27
+Roman;50
+Joanna;29
+Jurek;60
+Łucja;57
